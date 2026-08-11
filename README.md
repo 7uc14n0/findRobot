@@ -1,0 +1,2 @@
+# findRobot
+Repository of the codes used in the system for locating and controlling a mobile robot based on the pose estimated from the point cloud obtained by the 3D LiDAR sensor
