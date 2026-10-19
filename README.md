@@ -7,11 +7,11 @@ This project implements a distributed robotic system for locating and controllin
 
 -**Image of Experimental Enviroment**
 
-![Experimental Enviroment](figure/Experimental_Enviroment.png)
+![Experimental Enviroment](FotoSetup_v2.png)
 
 -**Image of the System Architecture**
 
-![Deposite Area](figure/Deposit_Area_Boxes.jpg)
+![Deposite Area](FlowDiagram.png)
 
 ---
 
