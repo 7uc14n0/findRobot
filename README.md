@@ -31,11 +31,6 @@ The system is distributed across four processing units to balance the computatio
    - Install [ROS2 Humble](https://docs.ros.org/en/humble/Installation.html)
    - Download the findRobotPoseEstimation_v9_Cilinder.py from this repository
    - Install Open3D: `pip3 install open3d`.
-
-2. **Mobile Robot Control trajectory (PC 1)**
-   - Install [Ubuntu 22.04](https://releases.ubuntu.com/jammy/)
-   - Install [ROS2 Humble](https://docs.ros.org/en/humble/Installation.html)
-   - Download the pioneerController_ROS2_Trajectory_FilterLidar3D_v2.py from this repository
   
 3. **Mobile Base (Raspberry PI 5)**
     - Raspberry Pi OS 64 [https://www.raspberrypi.com/software/]
@@ -44,6 +39,7 @@ The system is distributed across four processing units to balance the computatio
       - Install [Ubuntu 22.04](https://releases.ubuntu.com/jammy/)
       - Install [ROS2 Humble](https://docs.ros.org/en/humble/Installation.html)
       - Install RosAria Driver [adapted for ROS 2](https://github.com/Bessawy/RosAria2)
+      - Download the pioneerController_ROS2_Trajectory_FilterLidar3D_v2.py from this repository
       - Connect via Serial-to-USB to the Pioneer.
 
 6. **LiDAR Sensor Driver node(Raspberry Pi 5)**
