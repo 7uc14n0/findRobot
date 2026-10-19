@@ -1,6 +1,6 @@
 # A Static 3D LiDAR-Based System for Mobile Robot Control in a Multi-Robot Logistics Cell
 
-This project implements a distributed robotic system for locating and controlling a mobile robot based on the position estimated from the point cloud obtained by the static 3D LiDAR sensor and the orientation of the mobile robot was through the ROS2 node of the Pioneer 3Dx robot.
+This project implements a distributed robotic system for locating and controlling a mobile robot based on the position estimated from the point cloud obtained by the static 3D LiDAR sensor and the orientation of the mobile robot was through the ROS2 node of the Pioneer 3Dx robot. The video of the experiments conducted is available on YouTube at: [https://youtu.be/_S72CgqzOZc]
 
 -**Image of Experimental Enviroment**
 
